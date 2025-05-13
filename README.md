@@ -1,4 +1,4 @@
-# Seminario_ModeladoSistemasDinamicos
+# Seminario: Modelado de Sistemas Dinámicos 
 
 **Accede al código y modelos utilizados aquí** 👉🏻[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Seminario_ModeladoSistemasDinamicos&file=Livescript_Guia.mlx)
 
